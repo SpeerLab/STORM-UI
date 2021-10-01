@@ -9,7 +9,7 @@ Users should download and install FIJI (https://imagej.net/software/fiji/downloa
 
 Users should download and install XML files (in user-preferred location) and macros folder containing Fiji Z alignment .py code for 3D serial section alignment. Macros (.py files) from the STORM-UI repository should be added to the 'FIJI\macros' directory on the user's analysis machine. 
 
-Users should change directory paths within the "configs/XMLs.yml" file to direct to their chosen XML directory (location of downloaded XML files). 
+Users should change directory paths within the 'configs/XMLs.yml' file to direct to their chosen XML directory (location of downloaded XML files). 
 
 ## How to Run? 
 
