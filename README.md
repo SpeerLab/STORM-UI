@@ -1,9 +1,9 @@
-# STORM_GUI  -- "STORMpro"
+# STORM_GUI  -- "STORMpro.py"
 
 
 This is the Speer Lab STORM Analysis Application called "STORMpro" (beta). 
 
-STORMpro is described in the following publication: 
+STORMpro is described in the following publication: Vatan et al., Star Protocols 2021
 
 Users should download and install FIJI (https://imagej.net/software/fiji/downloads).
 
