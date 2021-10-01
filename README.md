@@ -3,7 +3,7 @@
 
 This is the Speer Lab STORM Analysis Application called "STORMpro" (beta). 
 
-STORMpro is described in the following publication: Vatan et al., Star Protocols 2021
+STORMpro is described in the following publication: Vatan et al., "Volumetric super-resolution imaging by serial ultrasectioning and STochastic Optical Reconstruction Microscopy (STORM) in neural tissue" Star Protocols 2021
 
 Users should download and install FIJI (https://imagej.net/software/fiji/downloads).
 
