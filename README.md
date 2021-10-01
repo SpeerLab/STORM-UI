@@ -20,10 +20,10 @@ Macros from the STORM-UI repository should be added to the 'FIJI\macros' directo
 ## Functionality
 
 * This UI will implement a pipeline for processing STORM data from raw .dax files to 3D aligned .tiff image stacks. Important steps in the process are:
- * 1.) Test/visualize fitting parameters on small portion of STORM data prior to running full analysis 
- * 2.) 3D-DAOSTORM single molecule fitting on all STORM and bead movies 
- * XY alignment with drift/chromatic aberration correction for images in physical sections 
- * Z stack alignment by rigid and elastic registration of all serial sections
+  1.) Test/visualize fitting parameters on small portion of STORM data prior to running full analysis 
+  2.) 3D-DAOSTORM single molecule fitting on all STORM and bead movies 
+  3.) XY alignment with drift/chromatic aberration correction for images in physical sections 
+  4.) Z stack alignment by rigid and elastic registration of all serial sections
 
 ## Instructions 
 
@@ -57,7 +57,6 @@ A description of 3D-DAOSTORM fitting parameters can be found here:
 https://storm-analysis.readthedocs.io/en/latest/parameters.html
 
 Set “Movie for fitting evaluation” to desired .dax file for analysis. This can be any movie that the user chooses. The goal is to fit a small portion of the movie to test the performance of the selected fit parameters for SMLM. Adjust start/end frames in the "Set test parameters" window to analyze a small sample portion of the selected STORM movie. Typically, 10-20 frames are selected in the middle or near the end of the .dax STORM movie. Select "Update XMLs" to update the desired test fitting range.
-
 
 Select “Fit Parameters" to run test fits on the chosen .dax movie. 
 
