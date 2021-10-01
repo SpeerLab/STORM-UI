@@ -7,9 +7,9 @@ STORMpro is described in the following publication: Vatan et al., "Volumetric su
 
 Users should download and install FIJI (https://imagej.net/software/fiji/downloads).
 
-Users should download and install XML files and macros folder containing Fiji Z alignment .py code for 3D serial section alignment. 
+Users should download and install XML files (in user-preferred location) and macros folder containing Fiji Z alignment .py code for 3D serial section alignment. Macros (.py files) from the STORM-UI repository should be added to the 'FIJI\macros' directory on the user's analysis machine. 
 
-Macros from the STORM-UI repository should be added to the 'FIJI\macros' directory on the user's analysis machine. 
+Users should change the "path/to/XMLs" directory within the XMLs.yml file to direct to their chosen XML directory. 
 
 ## How to Run? 
 
