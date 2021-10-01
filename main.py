@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 """
 Utility for visualizing quality of peak finding.
-Hazen 05/13
 main
 """
 
