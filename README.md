@@ -59,12 +59,12 @@ First select the desired channels for analysis through the check boxes next to "
 A description of 3D-DAOSTORM fitting parameters can be found here:
 https://storm-analysis.readthedocs.io/en/latest/parameters.html
 
-Set ìMovie for fitting evaluationî to desired .dax file for analysis. This can be any movie that the user chooses. The goal is to fit a small portion of the movie to test the performance of the selected fit parameters for SMLM. Adjust start/end frames in the "Set test parameters" window to analyze a small sample portion of the selected STORM movie. Typically, 10-20 frames are selected in the middle or near the end of the .dax STORM movie. Select "Update XMLs" to update the desired test fitting range.
+Set ‚ÄúMovie for fitting evaluation‚Äù to desired .dax file for analysis. This can be any movie that the user chooses. The goal is to fit a small portion of the movie to test the performance of the selected fit parameters for SMLM. Adjust start/end frames in the "Set test parameters" window to analyze a small sample portion of the selected STORM movie. Typically, 10-20 frames are selected in the middle or near the end of the .dax STORM movie. Select "Update XMLs" to update the desired test fitting range.
 
 
-Select ìFit Parameters" to run test fits on the chosen .dax movie. 
+Select ‚ÄúFit Parameters" to run test fits on the chosen .dax movie. 
 
-Load the output .hdf5 single-molecule localization list by dragging/dropping into the visualizer or selecting ìLoad localization 1î to select the desired .hdf5 file. 
+Load the output .hdf5 single-molecule localization list by dragging/dropping into the visualizer or selecting ‚ÄúLoad localization 1‚Äù to select the desired .hdf5 file. 
 
 Note: to visualize localizations in correct frames, temporarily set the radius for matching peaks from frame to frame in .xml to 0. Or else all localizations will show up in the first frame. 
 
@@ -74,9 +74,9 @@ Based on the fit quality determined in step 12, repeat steps 9-12 to optimize th
 
 ### Final image corrections and 3D alignment
 
-Select the appropriate ìAlignment channelî, which is the imaging channel to be used for Z-section alignment. This should be the channel with the greatest overall biological structure in the dataset (greater overall signal intensity). Typically this is either a global neuropil stain (e.g. WGA or similar), a fluorescent-labeled neuron, or large synaptic structures (e.g. vesicle labels). 
+Select the appropriate ‚ÄúAlignment channel‚Äù, which is the imaging channel to be used for Z-section alignment. This should be the channel with the greatest overall biological structure in the dataset (greater overall signal intensity). Typically this is either a global neuropil stain (e.g. WGA or similar), a fluorescent-labeled neuron, or large synaptic structures (e.g. vesicle labels). 
 
-Select the appropriate ìNumber of processesî to run concurrently during the STORM fitting analysis. This number is limited by the total threads available for computation on the analysis machine. 
+Select the appropriate ‚ÄúNumber of processes‚Äù to run concurrently during the STORM fitting analysis. This number is limited by the total threads available for computation on the analysis machine. 
 You can choose how many processes to run by either typing in the field directly or using the slider. 
 
 Select the start and end frames for each of the desired channels by pressing the "Set Frame Range" button and completing the form. This inputs the desired full frame range for final single molecule fitting of the STORM data. 
@@ -87,33 +87,6 @@ Once frame ranges have been set, the desired alignment channel is selected, and 
 
 When the first FIJI subprocess launches, input rigid registration parameters to continue the alignment. Information on rigid alignment in FIJI is found here: https://imagej.net/imaging/registration. 
 
-A Python subprocess opens displaying the compressed final image field. Drag cursor within the displayed image to set a sample ROI for cropping the image stack. Release the cursor to identify the ROI. Close the window and press ìEscapeî on the keyboard to crop the dataset. 
+A Python subprocess opens displaying the compressed final image field. Drag cursor within the displayed image to set a sample ROI for cropping the image stack. Release the cursor to identify the ROI. Close the window and press ‚ÄúEscape‚Äù on the keyboard to crop the dataset. 
 
 When the second FIJI subprocess launches, input elastic registration parameters to continue the alignment. Elastic alignment is implemented in TrakEM2 based on the original publication (Saalfeld et al., 2012). Information on elastic alignment parameters is found here: https://imagej.net/plugins/elastic-alignment-and-montage. 
-
-
-#
-# The MIT License
-#
-# Copyright (c) 2021 Speer Lab, University of Maryland
-#
-# Permission is hereby granted, free of charge, to any person obtaining a copy
-# of this software and associated documentation files (the "Software"), to deal
-# in the Software without restriction, including without limitation the rights
-# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-# copies of the Software, and to permit persons to whom the Software is
-# furnished to do so, subject to the following conditions:
-#
-# The above copyright notice and this permission notice shall be included in
-# all copies or substantial portions of the Software.
-#
-# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-# THE SOFTWARE.
-#
- 
-
