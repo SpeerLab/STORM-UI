@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- This is an Analysis Parameters XML file for fitting .dax 	STORM movies. Documentation on parameters can be found here: 	http://storm-	analysis.readthedocs.io/en/latest/parameters.html -->
+
+<settings>
+  <!-- Film parameters -->
+  <!-- -1 = start at the beginning, analyze to the end -->
+  <start_frame type="int">7</start_frame>
+  <max_frame type="int">8</max_frame>
+
+  <!-- These are for reducing the analysis AOI. Leave unset to 	start at the edge of the image -->
+  <!--
+  <x_start type="int">50</x_start>
+  <x_stop type="int">200</x_stop>
+  <y_start type="int">50</y_start>
+  <y_stop type="int">200</y_stop>
+  -->
+
+  <!-- Fitting parameters -->
+  <!-- Model is one of 2dfixed, 2d, 3d, or Z. 
+	2dfixed - fixed sigma 2d gaussian fitting. 
+	2d - variable sigma 2d gaussian fitting. 
+	3d - x, y sigma are independently variable, z will be fit 			after peak fitting. 
+	Z - x, y sigma depend on z, z is fit as part of peak 				fitting. -->
+  <model type="string">2dfixed</model>
+
+
+  <!-- Sigma of the filter to use for background estimation. -->
+  <!-- This value should be between 8-10 for most 	applications -->
+  <background_sigma type="float">8.0</background_sigma>
+  
+  <!-- camera calibration file -->
+  <!-- This file contains the sCMOS calibration data for the 	region of the camera that the movie comes from. It consists 	of 3 numpy arrays, [offset, variance, gain], each of which 	is the same size as a frame of the movie that is to be 	analyzed. This can be generated for a camera using 	camera_calibration.py and (if it needs to be resliced), 	reslice_calibration.py. -->
+  <camera_calibration type="filename">calib_896x896.npy</camera_calibration>
+
+  <!-- Radius around a maximum it to be considered as a 	localization. -->
+  <find_max_radius type="int">5</find_max_radius>
+    
+  <!-- Sigma of the filter to use for foreground smoothing. -->
+  <!-- This is the sigma of a 2D gaussian to convolve the image 	with prior to peak indentification. When your data has a low 	SNR this can help for peak finding. For optimal sensitivity 	it should be the same as the expected sigma for your peaks. 	If you set it to zero (or comment it out) then this will not 	be performed, which can make the analysis (very slightly) 	faster. Unless you need the sensitivity you might just leave 	this parameter out. If you do use it, this should be about 	the same as sigma -->
+  <foreground_sigma type="float">1.198</foreground_sigma>  
+  
+  <!-- Maximum number of iterations for new peak finding. Usually 	you’d use something like 20 to try and separate neighboring 	peaks. However if you are analyzing beads or some other 	bright and sparse target 1 may be a better choice as it will 	suppress the spurious splitting of a single peak into 	multiple peaks. -->
+  <iterations type="int">1</iterations>
+  
+  <!-- CCD pixel size (in nm) -->
+  <pixel_size type="float">155.0</pixel_size>
+
+  <!-- threshold -->
+  <!-- Threshold in units of sigma, as in "3 sigma event." For 	example at 3 sigma you’d expect about 0.003 false positives 	per pixel. Incorrect background estimation can however 	complicate things. You probably want to use a value greater 	than 6.0 for most analysis. Also if your label is quite 	bright and you are not modelling your peaks that well 	(incorrect PSF, PSF is too small) you may need to set this 	higher to avoid getting apparently spurious low intensity 	peaks. -->
+  <threshold type="float">20</threshold>
+
+  <!-- initial guess for PSF sigma -->
+  <!-- This is the estimated sigma of the PSF in pixels, it 	serves several purposes. 1) It is used in most of the 	analysis approaches as a measure of the peak to peak 	distance at which peak fits do not substantially effect each 	other. 2) In most of the analysis approaches, if two peaks 	are closer than this distance then the dimmer one will be 	discarded. 3) In 3D-DAOSTORM and sCMOS analysis it is also 	used as the initial guess for the peak sigma. If you are 	using the 2dfixed model then it needs to be pretty close to 	the correct value or the program will generate lots of 	spurious double and triple peaks. For 2d it should be close, 	probably within 50% or so of the average peak sigma or the 	fitting might fail to converge on many peaks. 3d is similar 	to 2d. It should not effect fitting for Z the model. -->
+  <sigma type="float">1.198</sigma>  
+
+
+<!-- Convert the .hdf5 mlist analysis files to .bin files for viewing in Insight3. This conversion keeps the original .hdf5 lists and creates new bin files. -->
+
+<convert_to type="string">.bin</convert_to>
+
+  <!-- Tracking parameters -->
+  <!-- Frame descriptor string
+       0 - activation frame
+       1 - non-specific frame
+       2 - channel1 frame
+       3 - channel2 frame
+       4 - etc..
+       -->
+  <descriptor type="string">2</descriptor>
+
+  <!-- Radius for matching peaks from frame to frame -->
+  <!-- Localizations that are closer than this value 
+       (in pixels) in adjacent frames (ignoring activation
+       frames) are assumed to come from the same emitter 
+       and are averaged together to create a (hopefully) 
+       more accurately localized emitter. 
+       If this is zero then no matching will be done. -->
+  <radius type="float">1.0</radius>
+
+
+  <!-- Z fitting parameters. -->
+
+  <!-- do z fitting (or not), only relevant for "3d" fitting. -->
+  <do_zfit type="int">0</do_zfit>
+
+  <!-- z fit cutoff (used when z is calculated later from wx, 	wy). -->
+  <cutoff type="float">1.0</cutoff>
+
+  <!-- wx vs z parameters. -->
+  <wx_wo type="float">334.0</wx_wo>
+  <wx_c type="float">150.0</wx_c> <!-- gx -->
+  <wx_d type="float">400.0</wx_d> <!-- zrx -->
+  <wxA type="float">0.0</wxA>
+  <wxB type="float">0.0</wxB>
+  <wxC type="float">0.0</wxC>
+  <wxD type="float">0.0</wxD>
+
+  <!-- wy vs z parameters. -->
+  <wy_wo type="float">334.0</wy_wo>
+  <wy_c type="float">-150.0</wy_c> <!-- gy -->
+  <wy_d type="float">400.0</wy_d> <!-- zry -->
+  <wyA type="float">0.0</wyA>
+  <wyB type="float">0.0</wyB>
+  <wyC type="float">0.0</wyC>
+  <wyD type="float">0.0</wyD>
+
+  <!-- range for z fitting, specified in um-->
+  <min_z type="float">-0.5</min_z>
+  <max_z type="float">0.5</max_z>
+
+
+  <!-- Drift correction parameters -->
+  <!-- do drift correction 0 = No -->
+  <drift_correction type="int">0</drift_correction>
+
+  <!-- number of frames in each sub-STORM image. -->
+  <frame_step type="int">500</frame_step>
+  
+  <!-- ... 2 is a good value -->
+  <!-- This is the "scale" at which to render the sub-STORM
+       images for drift correction. Drift correction works 
+       by creating STORM images from frame_step sized groups 
+       of frames. These are rendered scaled by the d_scale 
+       parameter. For example, if your data is 256x256 pixels 
+       then the drift-correction will create 512x512 sub-STORM 
+       images (for d_scale = 2) and then attempt to correlate 
+       these images to each other to calculate the drift. 
+       Using a larger d_scale value creates higher resolution 
+       sub-STORM images, but they are also sparser so you 
+       might not see any improvement in the drift correction. -->
+  <d_scale type="int">2</d_scale>  
+
+</settings>
+
+

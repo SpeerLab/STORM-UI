@@ -1,0 +1,1515 @@
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+966/972.0 750 molecules matched
+522/542.5 561 molecules matched
+407/544.0 488 molecules matched
+bead image number: 1
+90% of 750 beads aligned to  7.470115587518069 nm, using  966  beads
+90% of 561 beads aligned to  9.661365551939598 nm, using  522  beads
+90% of 488 beads aligned to  10.972133236031437 nm, using  407  beads
+End of p loop: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+966/972.0 750 molecules matched
+540/542.5 561 molecules matched
+538/544.0 488 molecules matched
+bead image number: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_488mlist.hdf5
+967/975.0 750 molecules matched
+532/537.0 561 molecules matched
+530/539.0 488 molecules matched
+bead image number: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_488mlist.hdf5
+976/979.5 750 molecules matched
+522/525.0 561 molecules matched
+522/526.0 488 molecules matched
+bead image number: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_488mlist.hdf5
+979/987.5 750 molecules matched
+523/528.5 561 molecules matched
+523/530.0 488 molecules matched
+bead image number: 4
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_488mlist.hdf5
+958/964.5 750 molecules matched
+538/541.0 561 molecules matched
+537/542.5 488 molecules matched
+bead image number: 5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_488mlist.hdf5
+958/971.0 750 molecules matched
+531/535.0 561 molecules matched
+529/536.0 488 molecules matched
+bead image number: 6
+90% of 750 beads aligned to  30.417750214376852 nm, using  5804  beads
+90% of 561 beads aligned to  10.833778620753623 nm, using  3186  beads
+90% of 488 beads aligned to  14.352290847716521 nm, using  3179  beads
+End of p loop: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+923/972.0 750 molecules matched
+527/542.5 561 molecules matched
+502/544.0 488 molecules matched
+bead image number: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_488mlist.hdf5
+928/975.0 750 molecules matched
+518/537.0 561 molecules matched
+500/539.0 488 molecules matched
+bead image number: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_488mlist.hdf5
+828/979.5 750 molecules matched
+507/525.0 561 molecules matched
+475/526.0 488 molecules matched
+bead image number: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_488mlist.hdf5
+863/987.5 750 molecules matched
+518/528.5 561 molecules matched
+480/530.0 488 molecules matched
+bead image number: 4
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_488mlist.hdf5
+690/964.5 750 molecules matched
+524/541.0 561 molecules matched
+480/542.5 488 molecules matched
+bead image number: 5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_488mlist.hdf5
+106/971.0 750 molecules matched
+521/535.0 561 molecules matched
+501/536.0 488 molecules matched
+bead image number: 6
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_488mlist.hdf5
+839/979.0 750 molecules matched
+509/521.5 561 molecules matched
+493/522.5 488 molecules matched
+bead image number: 7
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_488mlist.hdf5
+934/985.5 750 molecules matched
+520/529.5 561 molecules matched
+502/529.5 488 molecules matched
+bead image number: 8
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_488mlist.hdf5
+829/972.0 750 molecules matched
+458/541.0 561 molecules matched
+288/541.0 488 molecules matched
+bead image number: 9
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_488mlist.hdf5
+908/973.0 750 molecules matched
+517/538.0 561 molecules matched
+477/538.0 488 molecules matched
+bead image number: 10
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_488mlist.hdf5
+845/983.5 750 molecules matched
+511/524.5 561 molecules matched
+489/524.5 488 molecules matched
+bead image number: 11
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_488mlist.hdf5
+954/991.5 750 molecules matched
+521/533.5 561 molecules matched
+460/536.5 488 molecules matched
+bead image number: 12
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_488mlist.hdf5
+784/980.0 750 molecules matched
+520/548.0 561 molecules matched
+453/550.5 488 molecules matched
+bead image number: 13
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_488mlist.hdf5
+126/973.0 750 molecules matched
+529/541.0 561 molecules matched
+507/542.5 488 molecules matched
+bead image number: 14
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_488mlist.hdf5
+914/981.5 750 molecules matched
+514/530.5 561 molecules matched
+490/531.0 488 molecules matched
+bead image number: 15
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_488mlist.hdf5
+927/990.5 750 molecules matched
+510/534.0 561 molecules matched
+384/535.5 488 molecules matched
+bead image number: 16
+90% of 750 beads aligned to  10.609378802634067 nm, using  12398  beads
+90% of 561 beads aligned to  10.90681867820833 nm, using  8224  beads
+90% of 488 beads aligned to  12.977925358309003 nm, using  7481  beads
+End of p loop: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+951/972.0 750 molecules matched
+528/542.5 561 molecules matched
+497/544.0 488 molecules matched
+bead image number: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_488mlist.hdf5
+957/975.0 750 molecules matched
+518/537.0 561 molecules matched
+496/539.0 488 molecules matched
+bead image number: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_488mlist.hdf5
+933/979.5 750 molecules matched
+503/525.0 561 molecules matched
+478/526.0 488 molecules matched
+bead image number: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_488mlist.hdf5
+952/987.5 750 molecules matched
+517/528.5 561 molecules matched
+488/530.0 488 molecules matched
+bead image number: 4
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_488mlist.hdf5
+886/964.5 750 molecules matched
+526/541.0 561 molecules matched
+476/542.5 488 molecules matched
+bead image number: 5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_488mlist.hdf5
+76/971.0 750 molecules matched
+520/535.0 561 molecules matched
+499/536.0 488 molecules matched
+bead image number: 6
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_488mlist.hdf5
+946/979.0 750 molecules matched
+510/521.5 561 molecules matched
+487/522.5 488 molecules matched
+bead image number: 7
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_488mlist.hdf5
+959/985.5 750 molecules matched
+516/529.5 561 molecules matched
+501/529.5 488 molecules matched
+bead image number: 8
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_488mlist.hdf5
+935/972.0 750 molecules matched
+472/541.0 561 molecules matched
+261/541.0 488 molecules matched
+bead image number: 9
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_488mlist.hdf5
+952/973.0 750 molecules matched
+518/538.0 561 molecules matched
+475/538.0 488 molecules matched
+bead image number: 10
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_488mlist.hdf5
+951/983.5 750 molecules matched
+509/524.5 561 molecules matched
+487/524.5 488 molecules matched
+bead image number: 11
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_488mlist.hdf5
+970/991.5 750 molecules matched
+520/533.5 561 molecules matched
+475/536.5 488 molecules matched
+bead image number: 12
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_488mlist.hdf5
+925/980.0 750 molecules matched
+524/548.0 561 molecules matched
+437/550.5 488 molecules matched
+bead image number: 13
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_488mlist.hdf5
+92/973.0 750 molecules matched
+528/541.0 561 molecules matched
+501/542.5 488 molecules matched
+bead image number: 14
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_488mlist.hdf5
+962/981.5 750 molecules matched
+512/530.5 561 molecules matched
+489/531.0 488 molecules matched
+bead image number: 15
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_488mlist.hdf5
+967/990.5 750 molecules matched
+508/534.0 561 molecules matched
+402/535.5 488 molecules matched
+bead image number: 16
+90% of 750 beads aligned to  11.18198460352167 nm, using  13414  beads
+90% of 561 beads aligned to  10.921973281834937 nm, using  8229  beads
+90% of 488 beads aligned to  12.911087753665123 nm, using  7449  beads
+End of p loop: 4
+Traceback (most recent call last):
+  File "combined_matlab_conversion_july17.py", line 475, in <module>
+    from py_dftregistration import dftregistration;
+ModuleNotFoundError: No module named 'py_dftregistration'
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+966/972.0 750 molecules matched
+522/542.5 561 molecules matched
+407/544.0 488 molecules matched
+bead image number: 1
+90% of 750 beads aligned to  7.470115587518069 nm, using  966  beads
+90% of 561 beads aligned to  9.661365551939598 nm, using  522  beads
+90% of 488 beads aligned to  10.972133236031437 nm, using  407  beads
+End of p loop: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+966/972.0 750 molecules matched
+540/542.5 561 molecules matched
+538/544.0 488 molecules matched
+bead image number: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_488mlist.hdf5
+967/975.0 750 molecules matched
+532/537.0 561 molecules matched
+530/539.0 488 molecules matched
+bead image number: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_488mlist.hdf5
+976/979.5 750 molecules matched
+522/525.0 561 molecules matched
+522/526.0 488 molecules matched
+bead image number: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_488mlist.hdf5
+979/987.5 750 molecules matched
+523/528.5 561 molecules matched
+523/530.0 488 molecules matched
+bead image number: 4
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_488mlist.hdf5
+958/964.5 750 molecules matched
+538/541.0 561 molecules matched
+537/542.5 488 molecules matched
+bead image number: 5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_488mlist.hdf5
+958/971.0 750 molecules matched
+531/535.0 561 molecules matched
+529/536.0 488 molecules matched
+bead image number: 6
+90% of 750 beads aligned to  30.417750214376852 nm, using  5804  beads
+90% of 561 beads aligned to  10.833778620753623 nm, using  3186  beads
+90% of 488 beads aligned to  14.352290847716521 nm, using  3179  beads
+End of p loop: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+923/972.0 750 molecules matched
+527/542.5 561 molecules matched
+502/544.0 488 molecules matched
+bead image number: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_488mlist.hdf5
+928/975.0 750 molecules matched
+518/537.0 561 molecules matched
+500/539.0 488 molecules matched
+bead image number: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_488mlist.hdf5
+828/979.5 750 molecules matched
+507/525.0 561 molecules matched
+475/526.0 488 molecules matched
+bead image number: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_488mlist.hdf5
+863/987.5 750 molecules matched
+518/528.5 561 molecules matched
+480/530.0 488 molecules matched
+bead image number: 4
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_488mlist.hdf5
+690/964.5 750 molecules matched
+524/541.0 561 molecules matched
+480/542.5 488 molecules matched
+bead image number: 5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_488mlist.hdf5
+106/971.0 750 molecules matched
+521/535.0 561 molecules matched
+501/536.0 488 molecules matched
+bead image number: 6
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_488mlist.hdf5
+839/979.0 750 molecules matched
+509/521.5 561 molecules matched
+493/522.5 488 molecules matched
+bead image number: 7
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_488mlist.hdf5
+934/985.5 750 molecules matched
+520/529.5 561 molecules matched
+502/529.5 488 molecules matched
+bead image number: 8
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_488mlist.hdf5
+829/972.0 750 molecules matched
+458/541.0 561 molecules matched
+288/541.0 488 molecules matched
+bead image number: 9
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_488mlist.hdf5
+908/973.0 750 molecules matched
+517/538.0 561 molecules matched
+477/538.0 488 molecules matched
+bead image number: 10
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_488mlist.hdf5
+845/983.5 750 molecules matched
+511/524.5 561 molecules matched
+489/524.5 488 molecules matched
+bead image number: 11
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_488mlist.hdf5
+954/991.5 750 molecules matched
+521/533.5 561 molecules matched
+460/536.5 488 molecules matched
+bead image number: 12
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_488mlist.hdf5
+784/980.0 750 molecules matched
+520/548.0 561 molecules matched
+453/550.5 488 molecules matched
+bead image number: 13
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_488mlist.hdf5
+126/973.0 750 molecules matched
+529/541.0 561 molecules matched
+507/542.5 488 molecules matched
+bead image number: 14
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_488mlist.hdf5
+914/981.5 750 molecules matched
+514/530.5 561 molecules matched
+490/531.0 488 molecules matched
+bead image number: 15
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_488mlist.hdf5
+927/990.5 750 molecules matched
+510/534.0 561 molecules matched
+384/535.5 488 molecules matched
+bead image number: 16
+90% of 750 beads aligned to  10.609378802634067 nm, using  12398  beads
+90% of 561 beads aligned to  10.90681867820833 nm, using  8224  beads
+90% of 488 beads aligned to  12.977925358309003 nm, using  7481  beads
+End of p loop: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+951/972.0 750 molecules matched
+528/542.5 561 molecules matched
+497/544.0 488 molecules matched
+bead image number: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_488mlist.hdf5
+957/975.0 750 molecules matched
+518/537.0 561 molecules matched
+496/539.0 488 molecules matched
+bead image number: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_488mlist.hdf5
+933/979.5 750 molecules matched
+503/525.0 561 molecules matched
+478/526.0 488 molecules matched
+bead image number: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_488mlist.hdf5
+952/987.5 750 molecules matched
+517/528.5 561 molecules matched
+488/530.0 488 molecules matched
+bead image number: 4
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_488mlist.hdf5
+886/964.5 750 molecules matched
+526/541.0 561 molecules matched
+476/542.5 488 molecules matched
+bead image number: 5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_488mlist.hdf5
+76/971.0 750 molecules matched
+520/535.0 561 molecules matched
+499/536.0 488 molecules matched
+bead image number: 6
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_488mlist.hdf5
+946/979.0 750 molecules matched
+510/521.5 561 molecules matched
+487/522.5 488 molecules matched
+bead image number: 7
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_488mlist.hdf5
+959/985.5 750 molecules matched
+516/529.5 561 molecules matched
+501/529.5 488 molecules matched
+bead image number: 8
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_488mlist.hdf5
+935/972.0 750 molecules matched
+472/541.0 561 molecules matched
+261/541.0 488 molecules matched
+bead image number: 9
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_488mlist.hdf5
+952/973.0 750 molecules matched
+518/538.0 561 molecules matched
+475/538.0 488 molecules matched
+bead image number: 10
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_488mlist.hdf5
+951/983.5 750 molecules matched
+509/524.5 561 molecules matched
+487/524.5 488 molecules matched
+bead image number: 11
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_488mlist.hdf5
+970/991.5 750 molecules matched
+520/533.5 561 molecules matched
+475/536.5 488 molecules matched
+bead image number: 12
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_488mlist.hdf5
+925/980.0 750 molecules matched
+524/548.0 561 molecules matched
+437/550.5 488 molecules matched
+bead image number: 13
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_488mlist.hdf5
+92/973.0 750 molecules matched
+528/541.0 561 molecules matched
+501/542.5 488 molecules matched
+bead image number: 14
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_488mlist.hdf5
+962/981.5 750 molecules matched
+512/530.5 561 molecules matched
+489/531.0 488 molecules matched
+bead image number: 15
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_488mlist.hdf5
+967/990.5 750 molecules matched
+508/534.0 561 molecules matched
+402/535.5 488 molecules matched
+bead image number: 16
+90% of 750 beads aligned to  11.18198460352167 nm, using  13414  beads
+90% of 561 beads aligned to  10.921973281834937 nm, using  8229  beads
+90% of 488 beads aligned to  12.911087753665123 nm, using  7449  beads
+End of p loop: 4
+Traceback (most recent call last):
+  File "combined_matlab_conversion_july17.py", line 475, in <module>
+    from py_dftregistration import dftregistration;
+ModuleNotFoundError: No module named 'py_dftregistration'
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+966/972.0 750 molecules matched
+522/542.5 561 molecules matched
+407/544.0 488 molecules matched
+bead image number: 1
+90% of 750 beads aligned to  7.470115587518069 nm, using  966  beads
+90% of 561 beads aligned to  9.661365551939598 nm, using  522  beads
+90% of 488 beads aligned to  10.972133236031437 nm, using  407  beads
+End of p loop: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+966/972.0 750 molecules matched
+540/542.5 561 molecules matched
+538/544.0 488 molecules matched
+bead image number: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_488mlist.hdf5
+967/975.0 750 molecules matched
+532/537.0 561 molecules matched
+530/539.0 488 molecules matched
+bead image number: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_488mlist.hdf5
+976/979.5 750 molecules matched
+522/525.0 561 molecules matched
+522/526.0 488 molecules matched
+bead image number: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_488mlist.hdf5
+979/987.5 750 molecules matched
+523/528.5 561 molecules matched
+523/530.0 488 molecules matched
+bead image number: 4
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_488mlist.hdf5
+958/964.5 750 molecules matched
+538/541.0 561 molecules matched
+537/542.5 488 molecules matched
+bead image number: 5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_488mlist.hdf5
+958/971.0 750 molecules matched
+531/535.0 561 molecules matched
+529/536.0 488 molecules matched
+bead image number: 6
+90% of 750 beads aligned to  30.417750214376852 nm, using  5804  beads
+90% of 561 beads aligned to  10.833778620753623 nm, using  3186  beads
+90% of 488 beads aligned to  14.352290847716521 nm, using  3179  beads
+End of p loop: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+923/972.0 750 molecules matched
+527/542.5 561 molecules matched
+502/544.0 488 molecules matched
+bead image number: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_488mlist.hdf5
+928/975.0 750 molecules matched
+518/537.0 561 molecules matched
+500/539.0 488 molecules matched
+bead image number: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_488mlist.hdf5
+828/979.5 750 molecules matched
+507/525.0 561 molecules matched
+475/526.0 488 molecules matched
+bead image number: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_488mlist.hdf5
+863/987.5 750 molecules matched
+518/528.5 561 molecules matched
+480/530.0 488 molecules matched
+bead image number: 4
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_488mlist.hdf5
+690/964.5 750 molecules matched
+524/541.0 561 molecules matched
+480/542.5 488 molecules matched
+bead image number: 5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_488mlist.hdf5
+106/971.0 750 molecules matched
+521/535.0 561 molecules matched
+501/536.0 488 molecules matched
+bead image number: 6
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_488mlist.hdf5
+839/979.0 750 molecules matched
+509/521.5 561 molecules matched
+493/522.5 488 molecules matched
+bead image number: 7
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_488mlist.hdf5
+934/985.5 750 molecules matched
+520/529.5 561 molecules matched
+502/529.5 488 molecules matched
+bead image number: 8
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_488mlist.hdf5
+829/972.0 750 molecules matched
+458/541.0 561 molecules matched
+288/541.0 488 molecules matched
+bead image number: 9
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_488mlist.hdf5
+908/973.0 750 molecules matched
+517/538.0 561 molecules matched
+477/538.0 488 molecules matched
+bead image number: 10
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_488mlist.hdf5
+845/983.5 750 molecules matched
+511/524.5 561 molecules matched
+489/524.5 488 molecules matched
+bead image number: 11
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_488mlist.hdf5
+954/991.5 750 molecules matched
+521/533.5 561 molecules matched
+460/536.5 488 molecules matched
+bead image number: 12
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_488mlist.hdf5
+784/980.0 750 molecules matched
+520/548.0 561 molecules matched
+453/550.5 488 molecules matched
+bead image number: 13
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_488mlist.hdf5
+126/973.0 750 molecules matched
+529/541.0 561 molecules matched
+507/542.5 488 molecules matched
+bead image number: 14
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_488mlist.hdf5
+914/981.5 750 molecules matched
+514/530.5 561 molecules matched
+490/531.0 488 molecules matched
+bead image number: 15
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_488mlist.hdf5
+927/990.5 750 molecules matched
+510/534.0 561 molecules matched
+384/535.5 488 molecules matched
+bead image number: 16
+90% of 750 beads aligned to  10.609378802634067 nm, using  12398  beads
+90% of 561 beads aligned to  10.90681867820833 nm, using  8224  beads
+90% of 488 beads aligned to  12.977925358309003 nm, using  7481  beads
+End of p loop: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+951/972.0 750 molecules matched
+528/542.5 561 molecules matched
+497/544.0 488 molecules matched
+bead image number: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_488mlist.hdf5
+957/975.0 750 molecules matched
+518/537.0 561 molecules matched
+496/539.0 488 molecules matched
+bead image number: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_488mlist.hdf5
+933/979.5 750 molecules matched
+503/525.0 561 molecules matched
+478/526.0 488 molecules matched
+bead image number: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_488mlist.hdf5
+952/987.5 750 molecules matched
+517/528.5 561 molecules matched
+488/530.0 488 molecules matched
+bead image number: 4
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_488mlist.hdf5
+886/964.5 750 molecules matched
+526/541.0 561 molecules matched
+476/542.5 488 molecules matched
+bead image number: 5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_561mlist.hdf5combined_matlab_conversion_july17.py:46: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(f)
+
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_488mlist.hdf5
+76/971.0 750 molecules matched
+520/535.0 561 molecules matched
+499/536.0 488 molecules matched
+bead image number: 6
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_488mlist.hdf5
+946/979.0 750 molecules matched
+510/521.5 561 molecules matched
+487/522.5 488 molecules matched
+bead image number: 7
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_488mlist.hdf5
+959/985.5 750 molecules matched
+516/529.5 561 molecules matched
+501/529.5 488 molecules matched
+bead image number: 8
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_488mlist.hdf5
+935/972.0 750 molecules matched
+472/541.0 561 molecules matched
+261/541.0 488 molecules matched
+bead image number: 9
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_488mlist.hdf5
+952/973.0 750 molecules matched
+518/538.0 561 molecules matched
+475/538.0 488 molecules matched
+bead image number: 10
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_488mlist.hdf5
+951/983.5 750 molecules matched
+509/524.5 561 molecules matched
+487/524.5 488 molecules matched
+bead image number: 11
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_488mlist.hdf5
+970/991.5 750 molecules matched
+520/533.5 561 molecules matched
+475/536.5 488 molecules matched
+bead image number: 12
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_488mlist.hdf5
+925/980.0 750 molecules matched
+524/548.0 561 molecules matched
+437/550.5 488 molecules matched
+bead image number: 13
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_488mlist.hdf5
+92/973.0 750 molecules matched
+528/541.0 561 molecules matched
+501/542.5 488 molecules matched
+bead image number: 14
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_488mlist.hdf5
+962/981.5 750 molecules matched
+512/530.5 561 molecules matched
+489/531.0 488 molecules matched
+bead image number: 15
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_488mlist.hdf5
+967/990.5 750 molecules matched
+508/534.0 561 molecules matched
+402/535.5 488 molecules matched
+bead image number: 16
+90% of 750 beads aligned to  11.18198460352167 nm, using  13414  beads
+90% of 561 beads aligned to  10.921973281834937 nm, using  8229  beads
+90% of 488 beads aligned to  12.911087753665123 nm, using  7449  beads
+End of p loop: 4
+Traceback (most recent call last):
+  File "combined_matlab_conversion_july17.py", line 488, in <module>
+    from imresize import imresize;
+ModuleNotFoundError: No module named 'imresize'
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+966/972.0 750 molecules matched
+522/542.5 561 molecules matched
+407/544.0 488 molecules matched
+bead image number: 1
+90% of 750 beads aligned to  7.470115587518069 nm, using  966  beads
+90% of 561 beads aligned to  9.661365551939598 nm, using  522  beads
+90% of 488 beads aligned to  10.972133236031437 nm, using  407  beads
+End of p loop: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+966/972.0 750 molecules matched
+540/542.5 561 molecules matched
+538/544.0 488 molecules matched
+bead image number: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_488mlist.hdf5
+967/975.0 750 molecules matched
+532/537.0 561 molecules matched
+530/539.0 488 molecules matched
+bead image number: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_488mlist.hdf5
+976/979.5 750 molecules matched
+522/525.0 561 molecules matched
+522/526.0 488 molecules matched
+bead image number: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_488mlist.hdf5
+979/987.5 750 molecules matched
+523/528.5 561 molecules matched
+523/530.0 488 molecules matched
+bead image number: 4
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_488mlist.hdf5
+958/964.5 750 molecules matched
+538/541.0 561 molecules matched
+537/542.5 488 molecules matched
+bead image number: 5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_488mlist.hdf5
+958/971.0 750 molecules matched
+531/535.0 561 molecules matched
+529/536.0 488 molecules matched
+bead image number: 6
+90% of 750 beads aligned to  30.417750214376852 nm, using  5804  beads
+90% of 561 beads aligned to  10.833778620753623 nm, using  3186  beads
+90% of 488 beads aligned to  14.352290847716521 nm, using  3179  beads
+End of p loop: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+923/972.0 750 molecules matched
+527/542.5 561 molecules matched
+502/544.0 488 molecules matched
+bead image number: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_488mlist.hdf5
+928/975.0 750 molecules matched
+518/537.0 561 molecules matched
+500/539.0 488 molecules matched
+bead image number: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_488mlist.hdf5
+828/979.5 750 molecules matched
+507/525.0 561 molecules matched
+475/526.0 488 molecules matched
+bead image number: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_488mlist.hdf5
+863/987.5 750 molecules matched
+518/528.5 561 molecules matched
+480/530.0 488 molecules matched
+bead image number: 4
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_488mlist.hdf5
+690/964.5 750 molecules matched
+524/541.0 561 molecules matched
+480/542.5 488 molecules matched
+bead image number: 5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_488mlist.hdf5
+106/971.0 750 molecules matched
+521/535.0 561 molecules matched
+501/536.0 488 molecules matched
+bead image number: 6
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_488mlist.hdf5
+839/979.0 750 molecules matched
+509/521.5 561 molecules matched
+493/522.5 488 molecules matched
+bead image number: 7
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_488mlist.hdf5
+934/985.5 750 molecules matched
+520/529.5 561 molecules matched
+502/529.5 488 molecules matched
+bead image number: 8
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_488mlist.hdf5
+829/972.0 750 molecules matched
+458/541.0 561 molecules matched
+288/541.0 488 molecules matched
+bead image number: 9
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_488mlist.hdf5
+908/973.0 750 molecules matched
+517/538.0 561 molecules matched
+477/538.0 488 molecules matched
+bead image number: 10
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_488mlist.hdf5
+845/983.5 750 molecules matched
+511/524.5 561 molecules matched
+489/524.5 488 molecules matched
+bead image number: 11
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_488mlist.hdf5
+954/991.5 750 molecules matched
+521/533.5 561 molecules matched
+460/536.5 488 molecules matched
+bead image number: 12
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_488mlist.hdf5
+784/980.0 750 molecules matched
+520/548.0 561 molecules matched
+453/550.5 488 molecules matched
+bead image number: 13
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_488mlist.hdf5
+126/973.0 750 molecules matched
+529/541.0 561 molecules matched
+507/542.5 488 molecules matched
+bead image number: 14
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_488mlist.hdf5
+914/981.5 750 molecules matched
+514/530.5 561 molecules matched
+490/531.0 488 molecules matched
+bead image number: 15
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_488mlist.hdf5
+927/990.5 750 molecules matched
+510/534.0 561 molecules matched
+384/535.5 488 molecules matched
+bead image number: 16
+90% of 750 beads aligned to  10.609378802634067 nm, using  12398  beads
+90% of 561 beads aligned to  10.90681867820833 nm, using  8224  beads
+90% of 488 beads aligned to  12.977925358309003 nm, using  7481  beads
+End of p loop: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_00_488mlist.hdf5
+951/972.0 750 molecules matched
+528/542.5 561 molecules matched
+497/544.0 488 molecules matched
+bead image number: 1
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_01_488mlist.hdf5
+957/975.0 750 molecules matched
+518/537.0 561 molecules matched
+496/539.0 488 molecules matched
+bead image number: 2
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_02_488mlist.hdf5
+933/979.5 750 molecules matched
+503/525.0 561 molecules matched
+478/526.0 488 molecules matched
+bead image number: 3
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_03_488mlist.hdf5
+952/987.5 750 molecules matched
+517/528.5 561 molecules matched
+488/530.0 488 molecules matched
+bead image number: 4
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_04_488mlist.hdf5
+886/964.5 750 molecules matched
+526/541.0 561 molecules matched
+476/542.5 488 molecules matched
+bead image number: 5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_561mlist.hdf5combined_matlab_conversion_july17.py:46: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(f)
+
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_05_488mlist.hdf5
+76/971.0 750 molecules matched
+520/535.0 561 molecules matched
+499/536.0 488 molecules matched
+bead image number: 6
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_06_488mlist.hdf5
+946/979.0 750 molecules matched
+510/521.5 561 molecules matched
+487/522.5 488 molecules matched
+bead image number: 7
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_07_488mlist.hdf5
+959/985.5 750 molecules matched
+516/529.5 561 molecules matched
+501/529.5 488 molecules matched
+bead image number: 8
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_08_488mlist.hdf5
+935/972.0 750 molecules matched
+472/541.0 561 molecules matched
+261/541.0 488 molecules matched
+bead image number: 9
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_09_488mlist.hdf5
+952/973.0 750 molecules matched
+518/538.0 561 molecules matched
+475/538.0 488 molecules matched
+bead image number: 10
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_10_488mlist.hdf5
+951/983.5 750 molecules matched
+509/524.5 561 molecules matched
+487/524.5 488 molecules matched
+bead image number: 11
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_11_488mlist.hdf5
+970/991.5 750 molecules matched
+520/533.5 561 molecules matched
+475/536.5 488 molecules matched
+bead image number: 12
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_12_488mlist.hdf5
+925/980.0 750 molecules matched
+524/548.0 561 molecules matched
+437/550.5 488 molecules matched
+bead image number: 13
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_13_488mlist.hdf5
+92/973.0 750 molecules matched
+528/541.0 561 molecules matched
+501/542.5 488 molecules matched
+bead image number: 14
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_14_488mlist.hdf5
+962/981.5 750 molecules matched
+512/530.5 561 molecules matched
+489/531.0 488 molecules matched
+bead image number: 15
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_750mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_IR647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_Vis647mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_561mlist.hdf5
+C:\Users\Vatsal\QT_Projects\GUI_XY_Test\acquisition\bins\Regbead_1_15_488mlist.hdf5
+967/990.5 750 molecules matched
+508/534.0 561 molecules matched
+402/535.5 488 molecules matched
+bead image number: 16
+90% of 750 beads aligned to  11.18198460352167 nm, using  13414  beads
+90% of 561 beads aligned to  10.921973281834937 nm, using  8229  beads
+90% of 488 beads aligned to  12.911087753665123 nm, using  7449  beads
+End of p loop: 4
+images loaded for slice # 0000
+storm488 is not used, loading cov488 instead
+storm561 is not used, loading cov561 instead
+storm647 is not used, loading cov647 instead
+storm750 is not used, loading cov750 instead
+Start dftregistration
+Finished dftregistration
+storm images # 0000 aligned
+chromatic alignment done for slice #0000
+Finished writing all images for loop #0000
+images loaded for slice # 0001
+storm488 is not used, loading cov488 instead
+storm561 is not used, loading cov561 instead
+storm647 is not used, loading cov647 instead
+storm750 is not used, loading cov750 instead
+Start dftregistration
+Finished dftregistration
+storm images # 0001 aligned
+chromatic alignment done for slice #0001
+Finished writing all images for loop #0001
+images loaded for slice # 0002
+storm488 is not used, loading cov488 instead
+storm561 is not used, loading cov561 instead
+storm647 is not used, loading cov647 instead
+storm750 is not used, loading cov750 instead
+Start dftregistration
+Finished dftregistration
+storm images # 0002 aligned
+chromatic alignment done for slice #0002
+Finished writing all images for loop #0002
+image_chrom_align complete
