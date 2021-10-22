@@ -16,7 +16,7 @@ import skimage
 import PIL
 from PIL import Image
 
-from interactive_crop import interactive_crop 
+from .interactive_crop import interactive_crop 
 
 def crop_datastack(exp_folder, alignment_channel): 
     

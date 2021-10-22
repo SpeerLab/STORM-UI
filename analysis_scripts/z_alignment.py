@@ -10,8 +10,8 @@ import subprocess
 from cproc import *
 from reorder import *
 
-from .crop_datastack import * 
-from .wga_norm_and_thresh import * 
+from crop_datastack import * 
+from wga_norm_and_thresh import * 
 
 def z_align(expfolder, alignment_channel):
 
@@ -40,7 +40,6 @@ def z_align(expfolder, alignment_channel):
         out = wga_norm_and_thresh(exp_folder, alignment_channel)
         assert out == True
    
-    return 
         
     #perform rigid align
     if not os.path.exists(exp_folder + "\\rigid_align"):
