@@ -10,6 +10,7 @@ from scipy.interpolate import make_interp_spline,BSpline
 
 from scipy.stats import zscore 
 from scipy.interpolate import UnivariateSpline
+from skimage.exposure import match_histograms
 
 from PIL import Image
 from imageio import imwrite
@@ -23,53 +24,49 @@ def cal_hist(wgafile,num_images):
     hist,bins = np.histogram(A.ravel(),255,[1,255])
     return hist
     
-def new_hist(varuse, wgafile, path4, path4a):
-    print(wgafile)
+
+def hist_match(source, template):
+    """
+    Adjust the pixel values of a grayscale image such that its histogram
+    matches that of a target image
+
+    Arguments:
+    -----------
+        source: np.ndarray
+            Image to transform; the histogram is computed over the flattened
+            array
+        template: np.ndarray
+            Template histogram; can have different dimensions to source
+    Returns:
+    -----------
+        matched: np.ndarray
+            The transformed output image
+    """
+
+    oldshape = source.shape
+    source = source.ravel()
+    # template = template.ravel()
+
+    # get the set of unique pixel values and their corresponding indices and
+    # counts
+    s_values, bin_idx, s_counts = np.unique(source, return_inverse=True,
+                                            return_counts=True)
+    t_values, t_counts = np.unique(template, return_counts=True)
+
+    # take the cumsum of the counts and normalize by the number of pixels to
+    # get the empirical cumulative distribution functions for the source and
+    # template images (maps pixel value --> quantile)
+    s_quantiles = np.cumsum(s_counts).astype(np.float64)
+    s_quantiles /= s_quantiles[-1]
+    t_quantiles = np.cumsum(t_counts).astype(np.float64)
+    t_quantiles /= t_quantiles[-1]
+
+    # interpolate linearly to find the pixel values in the template image
+    # that correspond most closely to the quantiles in the source image
+    interp_t_values = np.interp(s_quantiles, t_quantiles, t_values)
+
+    return interp_t_values[bin_idx].reshape(oldshape)
     
-    import pdb; pdb.set_trace() 
-    
-    hgram4 = varuse / sum(varuse)
-    A = mpimg.imread(wgafile)
-    hist,bins = np.histogram(A.ravel(),256,[0,255])
-    hist_cum = np.cumsum(hist)
-    a = np.array(hist[0])
-    b = hgram4*(sum(hist)-hist[0])
-    hgram4a = np.concatenate((a,b),axis=None)
-
-    import pdb; pdb.set_trace() 
-
-    constructed = np.array([])
-    for i in range(256):
-        new = np.array(i*np.ones(int(np.round(hgram4a[i]))))
-        constructed = np.concatenate((constructed, new),axis=None)
-    InCaseShort = 255 * np.ones(300)
-    constructed = np.concatenate((constructed,InCaseShort),axis=None)
-    
-    new = np.array(range(256))
-    for i in range(256):
-        if i == 0:
-            first = 0
-        else:
-            first = hist_cum[i-1]
-        second = hist_cum[i]
-        result = np.average(constructed[first:second])
-        new[i] = np.round(result)
-
-    B = A.ravel()
-    C = new[B]
-    C = C.reshape(6400,6400)
-    C = np.uint8(C)
-    #D = imresize(C,(640,640))
-    D = np.array(Image.fromarray(C).resize((640,640)))
-    name = wgafile.split('\\')
-    name = name[-1]
-    #!!!!!!
-    #Important: need to double check whether the file name should start with 0 or 1. 
-    imwrite(path4 + name , C)
-    imwrite(path4a + name , D)
-
-    return 0
-
     
 def wga_norm_and_thresh(exp_folder, alignment_channel): 
 
@@ -161,8 +158,16 @@ def wga_norm_and_thresh(exp_folder, alignment_channel):
     hgram4 = varuse4 / varuse4.sum(axis=0, keepdims=True) # Normalize over the channels for each image 
     
     for i in range(num_images): 
-        new_hist(varuse4[i,:],wga_files[i],path4,path4a)    
-        i = i+1
+        # Read in the storm file 
+        A = mpimg.imread(wga_files[i]) 
+        hist,bins = np.histogram(A.ravel(),256,[0,255])
+        hist_cum = np.cumsum(hist)
+        a = np.array(hist[0])
+        b = hgram4*(sum(hist)-hist[0])
+        hgram4a = np.concatenate((a,b),axis=None)
+        
+        out = hist_match(A, hgram4a)    
+        
 
     print('Done!') 
     return True
