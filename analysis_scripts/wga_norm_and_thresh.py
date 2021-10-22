@@ -10,7 +10,8 @@ from scipy.interpolate import make_interp_spline,BSpline
 
 from scipy.stats import zscore 
 from scipy.interpolate import UnivariateSpline
-from skimage.exposure import match_histograms
+
+import skimage 
 
 from PIL import Image
 from imageio import imwrite
@@ -168,6 +169,13 @@ def wga_norm_and_thresh(exp_folder, alignment_channel):
         
         out = hist_match(A, hgram4a)    
         
+        out[A < 1] = 0 
+        
+        out_align = out 
+        out_align_small = skimage.transform.imresize(out_align, 0.1)
+        
+        imwrite(path4 + wga_files[i].split('\\')[-1], out_align)
+        imwrite(path4a + wga_files[i].split('\\')[-1], out_align_small)        
 
     print('Done!') 
     return True
