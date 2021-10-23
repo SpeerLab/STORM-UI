@@ -41,13 +41,17 @@ def z_align(expfolder, alignment_channel):
         print ('normalizing alignment channel images')
         out = wga_norm_and_thresh(exp_folder, alignment_channel)
         assert out == True
-   
+        while not os.path.exists(exp_folder + "/unaligned/for_align/" + "%03d" % (slicenum-1) + ".tiff"):
+            print ("...WGA normalization processing...")
+            time.sleep(60)
+            continue
+           
         
     #perform rigid align
     if not os.path.exists(exp_folder + "/rigid_align"):
         print ('running rigid alignment')
-#Changed Fiji path here!!!!!!!!!!!!!!!!!!!!!!!!!!
-        fijisub = ('C:/Users/Chenghang/Fiji.app/ImageJ-win64 ' +
+#NOTE: user should update "path/to/Fiji.app/" here
+        fijisub = ('C:/Users/Colenso/Fiji.app/ImageJ-win64 ' +
                    '-Xms50g -Xmx50g -Xincgc -XX:MaxPermSize=256m ' + 
                    '-XX:PermSize=256m -XX:NewRatio=5 -XX:CMSTriggerRatio=50 ' +
                    ' -- --no-splash -macro {} "'.format(fiji1_script) +
@@ -58,21 +62,25 @@ def z_align(expfolder, alignment_channel):
             print(exp_folder + "/rigid_align/for_align/" +
                                  "%03d" % (slicenum-1) + ".tif")
             print ("...rigid alignment processing...")
-            time.sleep(60) 
+            time.sleep(60)
+            continue
 
     #manually determine angle of rotation and cropping
     if not os.path.exists(exp_folder + "/cropped"):
         print ('initializing image crop')
-        #Changed path name here!!!!!!!!!!!!!!!!!!!!!
         out = crop_datastack(os.path.normpath(exp_folder), alignment_channel)
         assert out == True
+        while not os.path.exists(exp_folder + "cropped/for_align/" + "%03d" % (slicenum-1) + ".tiff"):
+            print ("...cropping images now...")
+            time.sleep(60)
+            continue
 
         
     #perform elastic align
     if not os.path.exists(exp_folder + "/elastic_align"):
         print ('running elastic alignment')
-#Changed Fiji path here!!!!!!!!!!!!!!!!!!!!
-        fijisub = ('C:/Users/Chenghang/Fiji.app/ImageJ-win64 ' +
+#NOTE: user should update "path/to/Fiji.app/" here
+        fijisub = ('C:/Users/Colenso/Fiji.app/ImageJ-win64 ' +
                    '-Xms50g -Xmx50g -Xincgc -XX:MaxPermSize=256m ' + 
                    '-XX:PermSize=256m -XX:NewRatio=5 -XX:CMSTriggerRatio=50 ' +
                    ' -- --no-splash -macro {} "'.format(fiji2_script) +
@@ -84,6 +92,7 @@ def z_align(expfolder, alignment_channel):
                                  "%03d" % (slicenum-1) + ".tif")
             print ("...elastic alignment processing...")
             time.sleep(120) 
+            continue
 
 
     #if elastic align ran, but images didn't finish saving out, finish saving images
@@ -92,7 +101,8 @@ def z_align(expfolder, alignment_channel):
         cropfiles = os.listdir(exp_folder + "/cropped/storm_merged_ds/")
         elasticfiles = os.listdir(exp_folder + "/elastic_align/storm_merged_ds/")
         if len(cropfiles)>len(elasticfiles):
-            fijisub = ('C:/Users/Vatsal/Fiji.app/ImageJ-win64 ' +
+#NOTE: user should update "path/to/Fiji.app/" here
+            fijisub = ('C:/Users/Colenso/Fiji.app/ImageJ-win64 ' +
                        '-Xms50g -Xmx50g -Xincgc -XX:MaxPermSize=256m ' +
                        '-XX:PermSize=256m -XX:NewRatio=5 -XX:CMSTriggerRatio=50 ' +
                        ' -- --no-splash -macro {} "'.format(fiji3_script) + exp_folder + '"')
@@ -100,10 +110,10 @@ def z_align(expfolder, alignment_channel):
             while not os.path.exists(exp_folder + "/elastic_align/for_align/" +
                                  "%03d" % (slicenum-1) + ".tif"):
                 print ("...elastic images saving out...")
-                time.sleep(60) 
+                time.sleep(60)
+                continue
 
-#z_align("C:/Users/Vatsal/QT_Projects/New_Pipeline/4color_test")
-    #parameters to use for alignment
+#parameters to use for alignment
         #SIFT
             #Sigma-1.2
             #Steps-6
@@ -114,7 +124,7 @@ def z_align(expfolder, alignment_channel):
             #maxEpsilon = 30
             #InlierRatio = 0.03
             #NumInlier = 5
-        #Elastic
+        #Elastic (will need to be determined empirically by the user depending on the image size)
             #Downsample = 0.1
             #Search Size = 20
             #Block Size = 400
