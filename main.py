@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 """
 Utility for visualizing quality of peak finding.
+Hazen 05/13
 main
 """
 
@@ -638,14 +639,14 @@ class Window(QtWidgets.QMainWindow):
                 return 
         
         # Pass the parameters to the fitting function
-        # try:                    
-            # scmos_func.batch_fitting(experiment_folder, num_processes, channels)    
-        # except Exception as e: 
-            # error_dialog = QtWidgets.QErrorMessage()
-            # error_dialog.setWindowTitle("Error!") 
-            # error_dialog.showMessage("SCMOS Failed: " + str(e)) 
-            # error_dialog.exec_() 
-            # return 
+        try:                    
+            scmos_func.batch_fitting(experiment_folder, num_processes, channels)    
+        except Exception as e: 
+            error_dialog = QtWidgets.QErrorMessage()
+            error_dialog.setWindowTitle("Error!") 
+            error_dialog.showMessage("SCMOS Failed: " + str(e)) 
+            error_dialog.exec_() 
+            return 
         
         alignment_channel = None 
         if self.ui.a_checkBox488.isChecked(): 
@@ -653,15 +654,15 @@ class Window(QtWidgets.QMainWindow):
         elif self.ui.a_checkBox561.isChecked(): 
             alignment_channel = 561
            
-        # try:
-            # print(xy_channels)
-            # xy_align_func.xy_align(experiment_folder, xy_channels, alignment_channel)
-        # except Exception as e: 
-            # error_dialog = QtWidgets.QErrorMessage()
-            # error_dialog.setWindowTitle("Error!") 
-            # error_dialog.showMessage("XY Align Failed: " + str(e)) 
-            # error_dialog.exec_() 
-            # return 
+        try:
+            print(xy_channels)
+            xy_align_func.xy_align(experiment_folder, xy_channels, alignment_channel)
+        except Exception as e: 
+            error_dialog = QtWidgets.QErrorMessage()
+            error_dialog.setWindowTitle("Error!") 
+            error_dialog.showMessage("XY Align Failed: " + str(e)) 
+            error_dialog.exec_() 
+            return 
         try:
             z_align_func.z_align(experiment_folder, alignment_channel) 
         except Exception as e: 
