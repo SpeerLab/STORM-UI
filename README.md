@@ -5,7 +5,7 @@ This is the Speer Lab STORM Analysis Application called "STORMpro" (beta).
 
 STORMpro is described in the following publication: Vatan et al., "Volumetric super-resolution imaging by serial ultrasectioning and STochastic Optical Reconstruction Microscopy (STORM) in neural tissue" Star Protocols 2021
 
-Users should download and install FIJI (https://imagej.net/software/fiji/downloads).
+Users should download and install FIJI (https://imagej.net/software/fiji/downloads). #NOTE- users should manually change the "path/to/Fiji.app" to their downloaded app location in several of the analysis scripts including XY alignment.py, bead processing.py, and Z align.py. Future versions of the STORMpro software will be updated to include automated path loading for FIJI. 
 
 Users should download and install XML files (in user-preferred location) and macros folder containing Fiji Z alignment .py code for 3D serial section alignment. Macros (.py files) from the STORM-UI repository should be added to the 'FIJI\macros' directory on the user's analysis machine. 
 
