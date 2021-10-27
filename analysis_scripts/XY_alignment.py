@@ -219,7 +219,8 @@ def xy_align(expfolder, selected_channels, alignment_channel):
 
     # load 561 Visconv images
         dax_file = daxspereader.inferReader(file)
-        image = dax_file.loadAFrame(7).astype(numpy.uint16)
+        #Change: from 7 to frame_561!!!!!!!!!!!!!!!!
+        image = dax_file.loadAFrame(frame_561).astype(numpy.uint16)
     # normalize histogram
         #print (rel_conv_ints, " are the mean conventional intensitites ")
         #print (int(rel_conv_ints[1]), " is the 561 mean intensity ")
@@ -235,7 +236,8 @@ def xy_align(expfolder, selected_channels, alignment_channel):
 
     # load 647 Visconv images
         dax_file = daxspereader.inferReader(file)
-        image = dax_file.loadAFrame(4).astype(numpy.uint16)
+        #Change: TO frame_647!!!!!!!!!!!!!
+        image = dax_file.loadAFrame(frame_647).astype(numpy.uint16)
     # normalize histogram
         #print (rel_conv_ints, " are the mean conventional intensitites ")
         #print (int(rel_conv_ints[2]), " is the 561 mean intensity ")
@@ -337,7 +339,8 @@ def xy_align(expfolder, selected_channels, alignment_channel):
         index = (int(idx[1]))
         # load 647 IRconv images
         dax_file = daxspereader.inferReader(file)
-        image = dax_file.loadAFrame(4).astype(numpy.uint16)
+        #Change: From 4 to frame_647!!!!!!!!!!!!!!!!!!!
+        image = dax_file.loadAFrame(frame_647).astype(numpy.uint16)
         # normalize histogram
         print ("saving out IRconv images")
         #print (int(rel_conv_ints[3]), " is the 647IR mean intensity ")
@@ -353,7 +356,8 @@ def xy_align(expfolder, selected_channels, alignment_channel):
 
         # load 750 IRconv images
         dax_file = daxspereader.inferReader(file)
-        image = dax_file.loadAFrame(1).astype(numpy.uint16)
+        #Change: from 1 to frame_749
+        image = dax_file.loadAFrame(frame_750).astype(numpy.uint16)
         # normalize histogram
         #print (rel_conv_ints, " are the mean conventional intensitites ")
         #print (int(rel_conv_ints[4]), " is the 647IR mean intensity ")
@@ -449,12 +453,17 @@ def xy_align(expfolder, selected_channels, alignment_channel):
 
     fijifolder = fijifolder.replace('\\', '\\\\')
     storm_save_out = 'storm_save_out.py' if alignment_channel == 561 else 'storm_save_out_488wga.py' 
+
+
+
+    #Changed here!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     
-    fijisub = ('C:/Users/Vatsal/Fiji.app/ImageJ-win64 ' +
-                   '-Xms50g -Xmx50g -Xincgc -XX:MaxPermSize=256m ' + 
-                   '-XX:PermSize=256m -XX:NewRatio=5 -XX:CMSTriggerRatio=50 ' +
-                   ' -- --no-splash -macro {} "'.format(storm_save_out) +
-                   fijifolder + ' ' + cmd[:-1] + ' "')
+    #fijisub = ('C:/Users/Vatsal/Fiji.app/ImageJ-win64 ' +
+    #              '-Xms50g -Xmx50g -Xincgc -XX:MaxPermSize=256m ' + 
+    #               '-XX:PermSize=256m -XX:NewRatio=5 -XX:CMSTriggerRatio=50 ' +
+    #               ' -- --no-splash -macro {} "'.format(storm_save_out) +
+    #               fijifolder + ' ' + cmd[:-1] + ' "')
+    fijisub = ('C:\\Users\\Vatsal\\Fiji.app\\ImageJ-win64' + ' -macro storm_save_out.py ' + fijifolder)
 
     print(fijisub)
     fijifolder
