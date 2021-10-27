@@ -11,7 +11,7 @@ from scipy.interpolate import make_interp_spline,BSpline
 from scipy.stats import zscore 
 from scipy.interpolate import UnivariateSpline
 
-import skimage 
+from skimage import transform 
 
 from PIL import Image
 from imageio import imwrite
@@ -52,8 +52,9 @@ def hist_match(source, template):
     # counts
     s_values, bin_idx, s_counts = np.unique(source, return_inverse=True,
                                             return_counts=True)
-    t_values, t_counts = np.unique(template, return_counts=True)
-
+    t_values = np.arange(0, template.shape[0])
+    t_counts = template
+    
     # take the cumsum of the counts and normalize by the number of pixels to
     # get the empirical cumulative distribution functions for the source and
     # template images (maps pixel value --> quantile)
@@ -100,9 +101,7 @@ def wga_norm_and_thresh(exp_folder, alignment_channel):
 
     hy3cb = np.zeros((num_images, 255))
     hy4cb = np.zeros((num_images, 255))
-    
-    import pdb; pdb.set_trace() 
-    
+        
     print('Calculating histograms!') 
     
     print(num_images)
@@ -121,8 +120,6 @@ def wga_norm_and_thresh(exp_folder, alignment_channel):
     x_sections = np.arange(0, num_images)
     
     print('Thresholding!!') 
-
-    import pdb; pdb.set_trace() 
 
     for i in range(255): 
         zthresh = 3 
@@ -156,9 +153,11 @@ def wga_norm_and_thresh(exp_folder, alignment_channel):
     if not os.path.exists(path4a): 
         os.mkdir(path4a)
     
-    hgram4 = varuse4 / varuse4.sum(axis=0, keepdims=True) # Normalize over the channels for each image 
-    
     for i in range(num_images): 
+
+
+        hgram4 = varuse4[i] / sum(varuse4[i]) # Normalize over the channels for each image 
+    
         # Read in the storm file 
         A = mpimg.imread(wga_files[i]) 
         hist,bins = np.histogram(A.ravel(),256,[0,255])
@@ -168,11 +167,14 @@ def wga_norm_and_thresh(exp_folder, alignment_channel):
         hgram4a = np.concatenate((a,b),axis=None)
         
         out = hist_match(A, hgram4a)    
+
+        #Change: debug part commented out !!!!!!!!!!!!!!!!!!!
+        #import pdb; pdb.set_trace() 
         
-        out[A < 1] = 0 
+        #out[A < 1] = 0 
         
         out_align = out 
-        out_align_small = skimage.transform.imresize(out_align, 0.1)
+        out_align_small = transform.rescale(out_align, 0.1)
         
         imwrite(path4 + wga_files[i].split('\\')[-1], out_align)
         imwrite(path4a + wga_files[i].split('\\')[-1], out_align_small)        
